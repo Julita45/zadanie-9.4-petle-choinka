@@ -1,0 +1,17 @@
+{
+  "name": "zadanie-9.1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scripts.js",
+  "dependencies": {
+    "jshint": "^2.9.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm run test:js",
+    "test:js": "jshint scripts.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
