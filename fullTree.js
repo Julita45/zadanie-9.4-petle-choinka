@@ -10,3 +10,5 @@ function drawTree(a) {
 		console.log(star);
 	}
 }
+
+drawTree(15);
